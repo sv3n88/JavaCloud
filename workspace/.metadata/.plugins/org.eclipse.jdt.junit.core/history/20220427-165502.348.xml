@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="SvenexampleApplicationTests" project="svenexample" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.sven.example.springboot.svenexample.SvenexampleApplicationTests" time="0.19" displayname="SvenexampleApplicationTests" uniqueid="[engine:junit-jupiter]/[class:com.sven.example.springboot.svenexample.SvenexampleApplicationTests]">
+    <testcase name="contextLoads" classname="com.sven.example.springboot.svenexample.SvenexampleApplicationTests" time="0.19" displayname="contextLoads()" uniqueid="[engine:junit-jupiter]/[class:com.sven.example.springboot.svenexample.SvenexampleApplicationTests]/[method:contextLoads()]"/>
+  </testsuite>
+</testrun>
