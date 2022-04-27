@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+D:\Informatik Studium\Eigenes Material\Udemy\Microservices Spring Cloud\workspace\.metadata\.plugins\org.eclipse.jdt.core
+4263912012.index
