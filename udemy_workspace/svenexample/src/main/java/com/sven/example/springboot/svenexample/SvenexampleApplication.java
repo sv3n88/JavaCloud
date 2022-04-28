@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SvenexampleApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Hello World!");
+		System.out.println("Hello World! This is a git Test");
 		SpringApplication.run(SvenexampleApplication.class, args);
 	}
 
